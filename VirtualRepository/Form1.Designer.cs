@@ -62,5 +62,17 @@
         private DataGridViewTextBoxColumn quantity;
         private DataGridViewTextBoxColumn price;
         private DataGridViewTextBoxColumn date;
+        private GroupBox groupBox2;
+        private Label label4;
+        private Label label3;
+        private Label label2;
+        private Label label1;
+        private Button button1;
+        private TextBox textBox4;
+        private TextBox textBox3;
+        private TextBox textBox2;
+        private TextBox textBox1;
+        private Button button3;
+        private Button button2;
     }
 }
