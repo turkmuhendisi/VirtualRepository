@@ -56,5 +56,11 @@
         #endregion
 
         private GroupBox groupBox1;
+        private DataGridView dataGridView1;
+        private DataGridViewTextBoxColumn id;
+        private DataGridViewTextBoxColumn pName;
+        private DataGridViewTextBoxColumn quantity;
+        private DataGridViewTextBoxColumn price;
+        private DataGridViewTextBoxColumn date;
     }
 }
